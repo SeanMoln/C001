@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<library>
+  <book>
+    <book_id>CSP01001</book_id>
+    <book_title>
+      C#程式設計</book_title>
+      <book_price>550</book_price>
+    </book>
+  <book>
+    <book_id>XML01005</book_id>
+    <book_title>
+      XML 網頁設計</book_title>
+      <book_price>600</book_price>
+    </book>
+  <book>
+    <book_id>ASP02012</book_id>
+    <book_title>ASP.NET程式設計</book_title>
+      <book_price>490</book_price>
+    </book>
+  <book>
+    <book_id>AND05003</book_id>
+    <book_title>Android程式設計</book_title>
+      <book_price>540</book_price>
+    </book>
+</library>
